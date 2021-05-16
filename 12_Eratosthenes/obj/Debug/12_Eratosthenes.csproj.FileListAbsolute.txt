@@ -1,0 +1,7 @@
+D:\Probleme Laborator Algoritmi\12_Eratosthenes\bin\Debug\12_Eratosthenes.exe.config
+D:\Probleme Laborator Algoritmi\12_Eratosthenes\bin\Debug\12_Eratosthenes.exe
+D:\Probleme Laborator Algoritmi\12_Eratosthenes\bin\Debug\12_Eratosthenes.pdb
+D:\Probleme Laborator Algoritmi\12_Eratosthenes\obj\Debug\12_Eratosthenes.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\12_Eratosthenes\obj\Debug\12_Eratosthenes.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\12_Eratosthenes\obj\Debug\12_Eratosthenes.exe
+D:\Probleme Laborator Algoritmi\12_Eratosthenes\obj\Debug\12_Eratosthenes.pdb

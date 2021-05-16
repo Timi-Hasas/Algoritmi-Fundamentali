@@ -1,0 +1,6 @@
+D:\Probleme Laborator Algoritmi\15_BubbleSort\bin\Debug\15_BubbleSort.exe.config
+D:\Probleme Laborator Algoritmi\15_BubbleSort\bin\Debug\15_BubbleSort.exe
+D:\Probleme Laborator Algoritmi\15_BubbleSort\bin\Debug\15_BubbleSort.pdb
+D:\Probleme Laborator Algoritmi\15_BubbleSort\obj\Debug\15_BubbleSort.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\15_BubbleSort\obj\Debug\15_BubbleSort.exe
+D:\Probleme Laborator Algoritmi\15_BubbleSort\obj\Debug\15_BubbleSort.pdb

@@ -1,0 +1,7 @@
+D:\Probleme Laborator Algoritmi\1_LeftRotation\bin\Debug\1_LeftRotation.exe.config
+D:\Probleme Laborator Algoritmi\1_LeftRotation\bin\Debug\1_LeftRotation.exe
+D:\Probleme Laborator Algoritmi\1_LeftRotation\bin\Debug\1_LeftRotation.pdb
+D:\Probleme Laborator Algoritmi\1_LeftRotation\obj\Debug\1_LeftRotation.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\1_LeftRotation\obj\Debug\1_LeftRotation.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\1_LeftRotation\obj\Debug\1_LeftRotation.exe
+D:\Probleme Laborator Algoritmi\1_LeftRotation\obj\Debug\1_LeftRotation.pdb

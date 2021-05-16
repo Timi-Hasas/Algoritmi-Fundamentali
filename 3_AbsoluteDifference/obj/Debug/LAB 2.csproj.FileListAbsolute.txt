@@ -1,0 +1,7 @@
+D:\Probleme Visual Studio\LAB 2\bin\Debug\LAB 2.exe.config
+D:\Probleme Visual Studio\LAB 2\bin\Debug\LAB 2.exe
+D:\Probleme Visual Studio\LAB 2\bin\Debug\LAB 2.pdb
+D:\Probleme Visual Studio\LAB 2\obj\Debug\LAB 2.csprojAssemblyReference.cache
+D:\Probleme Visual Studio\LAB 2\obj\Debug\LAB 2.csproj.CoreCompileInputs.cache
+D:\Probleme Visual Studio\LAB 2\obj\Debug\LAB 2.exe
+D:\Probleme Visual Studio\LAB 2\obj\Debug\LAB 2.pdb

@@ -1,0 +1,7 @@
+D:\Probleme Laborator Algoritmi\6_SpiralMatrix\bin\Debug\6_SpiralMatrix.exe.config
+D:\Probleme Laborator Algoritmi\6_SpiralMatrix\bin\Debug\6_SpiralMatrix.exe
+D:\Probleme Laborator Algoritmi\6_SpiralMatrix\bin\Debug\6_SpiralMatrix.pdb
+D:\Probleme Laborator Algoritmi\6_SpiralMatrix\obj\Debug\6_SpiralMatrix.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\6_SpiralMatrix\obj\Debug\6_SpiralMatrix.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\6_SpiralMatrix\obj\Debug\6_SpiralMatrix.exe
+D:\Probleme Laborator Algoritmi\6_SpiralMatrix\obj\Debug\6_SpiralMatrix.pdb

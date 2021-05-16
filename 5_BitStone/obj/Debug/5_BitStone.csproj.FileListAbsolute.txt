@@ -1,0 +1,7 @@
+D:\Probleme Laborator Algoritmi\5_BitStone\bin\Debug\5_BitStone.exe.config
+D:\Probleme Laborator Algoritmi\5_BitStone\bin\Debug\5_BitStone.exe
+D:\Probleme Laborator Algoritmi\5_BitStone\bin\Debug\5_BitStone.pdb
+D:\Probleme Laborator Algoritmi\5_BitStone\obj\Debug\5_BitStone.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\5_BitStone\obj\Debug\5_BitStone.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\5_BitStone\obj\Debug\5_BitStone.exe
+D:\Probleme Laborator Algoritmi\5_BitStone\obj\Debug\5_BitStone.pdb

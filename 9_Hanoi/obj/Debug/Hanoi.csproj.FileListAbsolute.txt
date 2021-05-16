@@ -1,0 +1,7 @@
+D:\Probleme Laborator Algoritmi\Hanoi\bin\Debug\Hanoi.exe.config
+D:\Probleme Laborator Algoritmi\Hanoi\bin\Debug\Hanoi.exe
+D:\Probleme Laborator Algoritmi\Hanoi\bin\Debug\Hanoi.pdb
+D:\Probleme Laborator Algoritmi\Hanoi\obj\Debug\Hanoi.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\Hanoi\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\Hanoi\obj\Debug\Hanoi.exe
+D:\Probleme Laborator Algoritmi\Hanoi\obj\Debug\Hanoi.pdb

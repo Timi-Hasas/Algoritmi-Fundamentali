@@ -1,0 +1,7 @@
+D:\Probleme Laborator Algoritmi\7_RotateImage\bin\Debug\7_RotateImage.exe.config
+D:\Probleme Laborator Algoritmi\7_RotateImage\bin\Debug\7_RotateImage.exe
+D:\Probleme Laborator Algoritmi\7_RotateImage\bin\Debug\7_RotateImage.pdb
+D:\Probleme Laborator Algoritmi\7_RotateImage\obj\Debug\7_RotateImage.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\7_RotateImage\obj\Debug\7_RotateImage.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\7_RotateImage\obj\Debug\7_RotateImage.exe
+D:\Probleme Laborator Algoritmi\7_RotateImage\obj\Debug\7_RotateImage.pdb

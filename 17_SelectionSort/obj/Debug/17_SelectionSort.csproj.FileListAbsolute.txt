@@ -1,0 +1,7 @@
+D:\Probleme Laborator Algoritmi\17_SelectionSort\bin\Debug\17_SelectionSort.exe.config
+D:\Probleme Laborator Algoritmi\17_SelectionSort\bin\Debug\17_SelectionSort.exe
+D:\Probleme Laborator Algoritmi\17_SelectionSort\bin\Debug\17_SelectionSort.pdb
+D:\Probleme Laborator Algoritmi\17_SelectionSort\obj\Debug\17_SelectionSort.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\17_SelectionSort\obj\Debug\17_SelectionSort.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\17_SelectionSort\obj\Debug\17_SelectionSort.exe
+D:\Probleme Laborator Algoritmi\17_SelectionSort\obj\Debug\17_SelectionSort.pdb

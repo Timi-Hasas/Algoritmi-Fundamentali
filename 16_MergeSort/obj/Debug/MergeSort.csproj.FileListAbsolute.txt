@@ -1,0 +1,7 @@
+D:\Probleme Laborator Algoritmi\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\MergeSort\bin\Debug\MergeSort.exe.config
+D:\Probleme Laborator Algoritmi\MergeSort\bin\Debug\MergeSort.exe
+D:\Probleme Laborator Algoritmi\MergeSort\bin\Debug\MergeSort.pdb
+D:\Probleme Laborator Algoritmi\MergeSort\obj\Debug\MergeSort.exe
+D:\Probleme Laborator Algoritmi\MergeSort\obj\Debug\MergeSort.pdb

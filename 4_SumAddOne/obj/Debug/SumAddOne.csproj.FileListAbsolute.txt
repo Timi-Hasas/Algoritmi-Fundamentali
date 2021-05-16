@@ -1,0 +1,13 @@
+D:\Probleme Visual Studio\SumAddOne\bin\Debug\SumAddOne.exe.config
+D:\Probleme Visual Studio\SumAddOne\bin\Debug\SumAddOne.exe
+D:\Probleme Visual Studio\SumAddOne\bin\Debug\SumAddOne.pdb
+D:\Probleme Visual Studio\SumAddOne\obj\Debug\SumAddOne.csproj.CoreCompileInputs.cache
+D:\Probleme Visual Studio\SumAddOne\obj\Debug\SumAddOne.exe
+D:\Probleme Visual Studio\SumAddOne\obj\Debug\SumAddOne.pdb
+D:\Probleme Laborator Algoritmi\4_SumAddOne\obj\Debug\SumAddOne.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\4_SumAddOne\obj\Debug\SumAddOne.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\4_SumAddOne\obj\Debug\SumAddOne.exe
+D:\Probleme Laborator Algoritmi\4_SumAddOne\obj\Debug\SumAddOne.pdb
+D:\Probleme Laborator Algoritmi\4_SumAddOne\bin\Debug\SumAddOne.exe.config
+D:\Probleme Laborator Algoritmi\4_SumAddOne\bin\Debug\SumAddOne.exe
+D:\Probleme Laborator Algoritmi\4_SumAddOne\bin\Debug\SumAddOne.pdb

@@ -1,0 +1,7 @@
+D:\Probleme Laborator Algoritmi\14_BinarySearch\bin\Debug\14_BinarySearch.exe.config
+D:\Probleme Laborator Algoritmi\14_BinarySearch\bin\Debug\14_BinarySearch.exe
+D:\Probleme Laborator Algoritmi\14_BinarySearch\bin\Debug\14_BinarySearch.pdb
+D:\Probleme Laborator Algoritmi\14_BinarySearch\obj\Debug\14_BinarySearch.csprojAssemblyReference.cache
+D:\Probleme Laborator Algoritmi\14_BinarySearch\obj\Debug\14_BinarySearch.csproj.CoreCompileInputs.cache
+D:\Probleme Laborator Algoritmi\14_BinarySearch\obj\Debug\14_BinarySearch.exe
+D:\Probleme Laborator Algoritmi\14_BinarySearch\obj\Debug\14_BinarySearch.pdb

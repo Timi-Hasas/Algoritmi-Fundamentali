@@ -1,0 +1,7 @@
+D:\Probleme Visual Studio\QueensProblem\bin\Debug\QueensProblem.exe.config
+D:\Probleme Visual Studio\QueensProblem\bin\Debug\QueensProblem.exe
+D:\Probleme Visual Studio\QueensProblem\bin\Debug\QueensProblem.pdb
+D:\Probleme Visual Studio\QueensProblem\obj\Debug\QueensProblem.csprojAssemblyReference.cache
+D:\Probleme Visual Studio\QueensProblem\obj\Debug\QueensProblem.csproj.CoreCompileInputs.cache
+D:\Probleme Visual Studio\QueensProblem\obj\Debug\QueensProblem.exe
+D:\Probleme Visual Studio\QueensProblem\obj\Debug\QueensProblem.pdb
